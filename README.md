@@ -2,7 +2,7 @@
 
 ### A simple python script that will allow you to check weather of any region.
 
-![](.img/weather.png)
+![](img/weather.png)
 
 ## Features:
 This Application used to check the weather of any region.
